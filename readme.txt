@@ -4,6 +4,6 @@ Number: 2013210217007
 
 Computer Engineering %100 (II)
 
-Project Name: ZanturChat
+Project Name: ZanturChat(Client)
 
 Desc: Data Communication Systems Project (General and Private Chat System With Sockets)
